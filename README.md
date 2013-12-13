@@ -1,6 +1,6 @@
 Crosswalk WebGL Sample
 =========================
-A small sample demonstrating the use of Three JS in Crosswalk.
+A sample is intended to demonstrates the use of Three JS with Crosswalk (https://github.com/crosswalk-project/crosswalk).
 
 Intel(R) XDK 
 -------------------------------------------
