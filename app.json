@@ -1,7 +1,7 @@
 {
 	"reponame":"sample-crosswalk-webgl",
 	"title":"CrossWalk WebGL",
-	"tooltip":"A sample that uses 3D WebGL Renderers & touch.",
+	"tooltip":"[CrossWalk-Android] A sample that uses 3D WebGL Renderers & touch.",
 	"description":"A sample that uses 3D WebGL Renderers & touch.",
 	"articleurl":"",
     "screenshotUrl":"",
